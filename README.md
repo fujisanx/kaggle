@@ -1,4 +1,10 @@
 # Kaggle notebooks
+Kaggle is a competition for data scientists  
+https://www.kaggle.com/
+
+This repository saves the competition's my solution  
+
+
 
 ## Image Classifer
 Use Keras DNN library  
