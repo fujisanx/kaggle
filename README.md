@@ -2,7 +2,7 @@
 Kaggle is a competition for data scientists  
 https://www.kaggle.com/
 
-This repository saves the competition's my solution  
+This repository saves my solution  
 
 
 
